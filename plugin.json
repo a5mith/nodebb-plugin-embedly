@@ -1,0 +1,14 @@
+{
+	"id": "nodebb-plugin-embedly",
+	"name": "NodeBB Embed.ly Plugin",
+	"description": "NodeBB Plugin that allows users to embed Embed.Ly cards inline in their posts.",
+	"url": "https://github.com/a5mith/nodebb-plugin-embedly",
+	"library": "./library.js",
+	"hooks": [
+		{ "hook": "filter:post.parse", "method": "parse", "callbacked": true }
+	],
+	"staticDirs": {
+        "css": "./static"
+    }
+
+}
