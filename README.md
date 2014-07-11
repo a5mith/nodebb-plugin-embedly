@@ -1,4 +1,4 @@
-# NodeBB HearThis Plugin
+# NodeBB Embed.ly Plugin
 
 This NodeBB plugin creates cards for URLs inside users posts.
 
