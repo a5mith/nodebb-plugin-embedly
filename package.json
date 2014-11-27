@@ -1,6 +1,6 @@
 {
   "name": "nodebb-plugin-embedly",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "nbbpm": {
         "compatibility": "^0.6.0"
   },
@@ -30,6 +30,6 @@
   },
   "readme": "",
   "readmeFilename": "README.md",
-  "_id": "nodebb-plugin-embedly@0.1.2",
-  "_from": "nodebb-plugin-embedly@~0.1.2"
+  "_id": "nodebb-plugin-embedly@0.1.3",
+  "_from": "nodebb-plugin-embedly@~0.1.3"
 }
