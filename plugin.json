@@ -5,7 +5,7 @@
 	"url": "https://github.com/a5mith/nodebb-plugin-embedly",
 	"library": "./library.js",
 	"hooks": [
-		{ "hook": "filter:parse.post", "method": "parse", "callbacked": true }
+		{ "hook": "filter:parse.post", "method": "parse", "priority": 6 }
 	],
 	"staticDirs": {
         "css": "./static"
